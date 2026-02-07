@@ -1,4 +1,4 @@
-# [POINT-LIO](https://github.com/hku-mars/FAST_LIO.git) converter to [HDMapping](https://github.com/MapsHD/HDMapping)
+# [POINT-LIO](https://github.com/hku-mars/Point-LIO) converter to [HDMapping](https://github.com/MapsHD/HDMapping)
 
 ## Hint
 
